@@ -11,10 +11,10 @@
 	<groupId>com</groupId>
 	<artifactId>AWSCodeDeployDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AWSCodeDeployDemo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Usama</name>
+	<description>Demo project for testing Jenkins</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
